@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,33 +221,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="38" y="109" width="337" height="540" key="#com.intellij.ide.util.MemberChooser" timestamp="1602686245575">
+    <state x="38" y="109" width="337" height="540" key="#com.intellij.ide.util.MemberChooser" timestamp="1602694118393">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="38" y="109" width="337" height="540" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1602686245575" />
+    <state x="38" y="109" width="337" height="540" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1602694118393" />
     <state x="488" y="286" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602534541161">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="488" y="286" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.735@0.23.1280.735" timestamp="1602534541161" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1602693901002">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1602695816231">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602693901002" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602695816231" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1602687676664" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1602693901001">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1602695816230">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602693901001" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602695816230" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1602687676662" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1602693900993">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1602695816229">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602693900993" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602695816229" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1602687676660" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1602693901002">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1602695816230">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602693901002" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602695816230" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1602687676663" />
     <state x="268" y="119" key="RollbackChangesDialog" timestamp="1602534936740">
       <screen x="0" y="23" width="1280" height="735" />
