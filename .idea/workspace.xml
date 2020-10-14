@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,9 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Android-CandyCodedApplication" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -192,25 +195,25 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="488" y="286" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.735@0.23.1280.735" timestamp="1602534541161" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1602687692906">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1602690159949">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602687692906" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602690159949" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1602687676664" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1602687692901">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1602690159948">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602687692901" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602690159948" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1602687676662" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1602687692901">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1602690159947">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602687692901" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602690159947" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1602687676660" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1602687692902">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1602690159948">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602687692902" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602690159948" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1602687676663" />
     <state x="268" y="119" key="RollbackChangesDialog" timestamp="1602534936740">
       <screen x="0" y="23" width="1280" height="735" />
@@ -224,10 +227,10 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1280.735@0.23.1280.735" timestamp="1602678493584" />
-    <state x="310" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1602685640638">
+    <state x="310" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1602690423859">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="310" y="218" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1602685640638" />
+    <state x="310" y="218" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1602690423859" />
     <state x="310" y="223" key="com.intellij.ide.util.TipDialog/0.23.1280.735@0.23.1280.735" timestamp="1602655795615" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1602684283419">
       <screen x="0" y="0" width="1280" height="800" />
