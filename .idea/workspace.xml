@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <recent name="com.pluralsight.candycoded" />
     </key>
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -87,6 +87,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -168,6 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -195,25 +212,25 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="488" y="286" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.735@0.23.1280.735" timestamp="1602534541161" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1602690159949">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1602691076391">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602690159949" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602691076391" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1602687676664" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1602690159948">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1602691076390">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602690159948" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602691076390" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1602687676662" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1602690159947">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1602691076389">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602690159947" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602691076389" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1602687676660" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1602690159948">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1602691076390">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602690159948" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602691076390" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1602687676663" />
     <state x="268" y="119" key="RollbackChangesDialog" timestamp="1602534936740">
       <screen x="0" y="23" width="1280" height="735" />
